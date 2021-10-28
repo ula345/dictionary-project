@@ -3,3 +3,8 @@
   display: block;
   margin: 0;
 }
+
+.App-footer {
+  text-align: center;
+  margin: 60px auto;
+}
