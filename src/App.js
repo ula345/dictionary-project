@@ -2,6 +2,7 @@
 import logo from "./logo.jpg";
 import './App.css';
 import Dictionary from "./Dictionary";
+import axios from "axios";
 
  function App() {
   return (
@@ -15,7 +16,7 @@ import Dictionary from "./Dictionary";
       </main> 
     <footer className="text-center">
        <small> Coded by Urszula Krzemińska and is {" "}
-          <a href ="https://github.com/ula345/weather-app-react.git" rel="noreferrer" target="_blank"> open-sourrce on GitHub </a>
+          <a href ="https://github.com/ula345/dictionary-project.git" rel="noreferrer" target="_blank"> open-sourrce on GitHub </a>
     and is run by <a href ="https://condescending-euler-9266ff.netlify.app" rel="noreferrer" target="_blank">Netlify</a>
     </small>
     </footer>
