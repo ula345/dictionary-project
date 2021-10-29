@@ -2,7 +2,6 @@
 import logo from "./logo.jpg";
 import './App.css';
 import Dictionary from "./Dictionary";
-import axios from "axios";
 
  function App() {
   return (
