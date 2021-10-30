@@ -1,11 +1,16 @@
 body {
   background-color: rgb(237, 233, 243);
   background-image: url("/src/logo.jpg");
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
 }
 
+App:first-letter {
+  text-transform: uppercase;
+}
 a {
   color: rgb(180, 134, 180);
   text-decoration: none;
+  text-transform: capitalize;
 }
 
 .App-logo {

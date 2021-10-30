@@ -37,6 +37,7 @@ setPhotos(response.data.photos);
   return (
     <div className="Dictionary">
       <form onSubmit={search}>
+        <h1>What word are you looking for?</h1>
         <input type="search" onChange={handleKeywordChange} />
       </form>
       <Results results={results} />

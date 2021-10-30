@@ -22,3 +22,8 @@
   font-size: 20px;
   margin: 20px;
 }
+
+.Dictionary h1 {
+  font-size: 36px;
+  color: rgb(188, 161, 196);
+}
