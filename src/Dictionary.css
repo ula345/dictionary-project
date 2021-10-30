@@ -1,4 +1,24 @@
+.Dictionary section {
+  box-shadow: 10px 10px rgb(0 0 /10%);
+}
+
 .Dictionary {
-  background: rgb(238, 191, 224);
-  border-color: blueviolet;
+  background-color: rgb(247, 242, 247);
+  border-color: violet;
+  border-radius: 30px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.Dictionary form {
+  padding: 20px;
+  text-align: center;
+}
+
+.Dictionary input {
+  border-radius: 10px;
+  width: 700px;
+  height: 50px;
+  font-size: 20px;
+  margin: 20px;
 }
